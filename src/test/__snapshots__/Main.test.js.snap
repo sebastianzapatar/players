@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test app test1 render 1`] = `
+<div>
+  <input
+    onChange={[Function]}
+    placeholder="Ingrese la suma de las alturas"
+    type="number"
+  />
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    Simular 150
+  </button>
+  <h1>
+    No matches found
+  </h1>
+</div>
+`;
